@@ -314,21 +314,21 @@ aside .labal-aside{
 }
 
 .main .stories .story:nth-child(1){
-    background-image: url('../assets/profile-photo-1.jpg');
+    background-image: url('./images/profile-photo-1.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .main .stories .story:nth-child(2){
-    background-image: url('../assets/profile-photo-2.jpg');
+    background-image: url('./images/profile-photo-2.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .main .stories .story:nth-child(3){
-    background-image: url('../assets/profile-photo-3.jpg');
+    background-image: url('./images/profile-photo-3.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
@@ -336,14 +336,14 @@ aside .labal-aside{
 
 
 .main .stories .story:nth-child(4){
-    background-image: url('../assets/profile-photo-4.jpg');
+    background-image: url('./images/profile-photo-4.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 .main .stories .story:nth-child(5){
-    background-image: url('../assets/profile-photo-5.jpg');
+    background-image: url('./images/profile-photo-5.jpg');
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
